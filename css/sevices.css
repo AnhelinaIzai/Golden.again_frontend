@@ -1,0 +1,56 @@
+.title-2{
+	display: block;
+}
+
+h4{
+	color: #222222;
+	font-family: "Arial - Bold MT";
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 75px;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	text-align: center;
+	padding-top: 119px;
+	margin: 0;
+}
+
+h5{
+	margin: 2px;
+	color: #777777;
+	font-family: "Arial MT";
+	font-size: 16px;
+	font-weight: 400;
+	text-align: center;
+	margin-bottom: 77px;
+}
+.icons{
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	text-align: center;
+
+}
+
+
+.title_{
+	padding-right: 41px;
+	padding-left: 41px;
+	color: #222222;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 75px;
+	letter-spacing: -0.45px;
+}
+
+.desc{
+	text-align: center;
+	padding-right: 41px;
+	padding-left: 41px;
+	color: #777777;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: -0.35px;
+	margin-bottom: 30px;
+}

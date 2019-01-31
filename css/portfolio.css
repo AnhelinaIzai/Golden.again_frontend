@@ -1,0 +1,14 @@
+.portfolio{
+	margin-top: 30px;
+	width: auto;
+	height: 680px;	
+	background-color: #f7f7f7;
+}
+
+.images{
+	display: flex;
+	justify-content: space-between;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-bottom: 100px;
+}
