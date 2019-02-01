@@ -1,0 +1,96 @@
+.cards1{
+	display:block;
+	margin: 0;
+	margin-right: 210px;
+	margin-bottom: 93px; 
+	display: flex;
+	justify-content: center;
+	padding-left: 40px;	
+}
+.desc_left{
+	text-align: right;
+	box-sizing: border-box;
+	margin-right: 40px;
+	/* Style for "Proin iacu" */
+width: 283px;
+height: 100px;
+color: #777777;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+/* Text style for "P, roin ia" */
+letter-spacing: -0.35px;
+}
+
+h6{
+	margin-top: 5px;
+	color: #222222;
+	font-family: "Arial - Bold MT";
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: -0.45px;
+	text-transform: uppercase;
+	letter-spacing: -0.45px;
+	margin-bottom: 10px;
+}
+p{
+     color: #222222;
+	font-family: "Arial - Bold MT";
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: -0.45px;
+
+}
+
+
+
+	
+
+.images1{
+	justify-content: center;
+	padding-right: 200px;
+	padding-top: 5px;
+}
+
+
+.cards2{
+	display:block;
+	margin: 0;
+	margin-left: 210px;
+	margin-bottom: 93px; 
+	display: flex;
+	justify-content: center;
+	padding-left: 40px;	
+}
+.images2{
+	justify-content: center;
+	
+	padding-top: 5px;
+}
+
+.desc_right2{
+    text-align: left;
+	box-sizing: border-box;
+	margin-left: 40px;
+	/* Style for "Proin iacu" */
+width: 283px;
+height: 100px;
+color: #777777;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+/* Text style for "P, roin ia" */
+letter-spacing: -0.35px;
+}
+
+.footer{
+
+	margin-bottom: 112px;
+	color: #555555;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+	/* Text style for "© Copyrigh" */
+	letter-spacing: -0.35px;
+}
